@@ -118,6 +118,7 @@ pizzas.pizza_type_id     ->  pizza_types.pizza_type_id
 ## Author
 
 **Vaishnavi Badhe**
+
 Data Analyst| Python, SQL, Power BI, Machine Learning
 Mumbai, India
 

@@ -117,10 +117,7 @@ pizzas.pizza_type_id     ->  pizza_types.pizza_type_id
 
 ## Author
 
-**Javed Shaikh**
-Data Scientist / Mentor | Python, SQL, Power BI, Machine Learning
-Pune, India
+**Vaishnavi Badhe**
+Data Analyst| Python, SQL, Power BI, Machine Learning
+Mumbai, India
 
-- LinkedIn: [your-link]
-- GitHub: [your-link]
-- Email: [your-email]

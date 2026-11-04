@@ -76,10 +76,7 @@ pizzas.pizza_type_id     ->  pizza_types.pizza_type_id
 
 ## Sample Output
 
-> Add screenshots of a few query results to the `images/` folder and link them here.
-
-![Top 5 pizza types](images/top5_pizza_types.png)
-![Cumulative revenue](images/cumulative_revenue.png)
+please see above **PPTX** file
 
 ---
 
